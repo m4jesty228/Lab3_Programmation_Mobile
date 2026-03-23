@@ -19,7 +19,7 @@
             android:id="@+id/nom"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:hint="Ex : LACHGAR Mohamed"
+            android:hint="Ex : Landry DOSSAH"
             android:inputType="textPersonName" />
 
         <!-- Email -->
@@ -45,7 +45,7 @@
             android:id="@+id/phone"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:hint="Ex : +212676000000"
+            android:hint="Ex : +212789200000"
             android:inputType="phone" />
 
         <!-- Adresse -->
@@ -58,7 +58,7 @@
             android:id="@+id/adresse"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:hint="Ex : 23, Hay Salam ..."
+            android:hint="Ex : 23, Hay Mabrouka"
             android:inputType="textPostalAddress" />
 
         <!-- Ville (Spinner) -->
